@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rishikaranjan21/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/rishikaranjan21/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
 | ------- |
@@ -54,5 +55,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/rishikaranjan21/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/rishikaranjan21/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
