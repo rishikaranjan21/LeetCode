@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rishikaranjan21/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rishikaranjan21/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rishikaranjan21/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rishikaranjan21/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rishikaranjan21/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/rishikaranjan21/LeetCode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/rishikaranjan21/LeetCode/tree/master/0204-count-primes) |
 | [1039-find-the-town-judge](https://github.com/rishikaranjan21/LeetCode/tree/master/1039-find-the-town-judge) |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rishikaranjan21/LeetCode/tree/master/0204-count-primes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rishikaranjan21/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
