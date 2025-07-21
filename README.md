@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/rishikaranjan21/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0461-hamming-distance](https://github.com/rishikaranjan21/LeetCode/tree/master/0461-hamming-distance) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/rishikaranjan21/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Number Theory
 |  |
