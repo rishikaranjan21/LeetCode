@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/rishikaranjan21/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1372-check-if-it-is-a-good-array](https://github.com/rishikaranjan21/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,9 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/rishikaranjan21/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rishikaranjan21/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1372-check-if-it-is-a-good-array](https://github.com/rishikaranjan21/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/rishikaranjan21/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/rishikaranjan21/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+## Number Theory
+|  |
+| ------- |
+| [1372-check-if-it-is-a-good-array](https://github.com/rishikaranjan21/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
