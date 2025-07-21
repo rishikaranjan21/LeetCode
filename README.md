@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rishikaranjan21/LeetCode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/rishikaranjan21/LeetCode/tree/master/0204-count-primes) |
 | [1039-find-the-town-judge](https://github.com/rishikaranjan21/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1372-check-if-it-is-a-good-array](https://github.com/rishikaranjan21/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rishikaranjan21/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/rishikaranjan21/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0461-hamming-distance](https://github.com/rishikaranjan21/LeetCode/tree/master/0461-hamming-distance) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/rishikaranjan21/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
