@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rishikaranjan21/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Array
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/rishikaranjan21/LeetCode/tree/master/1039-find-the-town-judge) |
+## Hash Table
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/rishikaranjan21/LeetCode/tree/master/1039-find-the-town-judge) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/rishikaranjan21/LeetCode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
