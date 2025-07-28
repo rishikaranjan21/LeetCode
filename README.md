@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishikaranjan21/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/rishikaranjan21/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/rishikaranjan21/LeetCode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/rishikaranjan21/LeetCode/tree/master/0204-count-primes) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishikaranjan21/LeetCode/tree/master/0001-two-sum) |
 | [1039-find-the-town-judge](https://github.com/rishikaranjan21/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rishikaranjan21/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Graph
