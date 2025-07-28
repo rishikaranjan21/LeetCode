@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rishikaranjan21/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/rishikaranjan21/LeetCode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/rishikaranjan21/LeetCode/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rishikaranjan21/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1252-break-a-palindrome](https://github.com/rishikaranjan21/LeetCode/tree/master/1252-break-a-palindrome) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/rishikaranjan21/LeetCode/tree/master/0412-fizz-buzz) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/rishikaranjan21/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
