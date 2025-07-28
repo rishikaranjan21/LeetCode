@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rishikaranjan21/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0412-fizz-buzz](https://github.com/rishikaranjan21/LeetCode/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rishikaranjan21/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1252-break-a-palindrome](https://github.com/rishikaranjan21/LeetCode/tree/master/1252-break-a-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rishikaranjan21/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rishikaranjan21/LeetCode/tree/master/0204-count-primes) |
+| [0412-fizz-buzz](https://github.com/rishikaranjan21/LeetCode/tree/master/0412-fizz-buzz) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/rishikaranjan21/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rishikaranjan21/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1372-check-if-it-is-a-good-array](https://github.com/rishikaranjan21/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1252-break-a-palindrome](https://github.com/rishikaranjan21/LeetCode/tree/master/1252-break-a-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/rishikaranjan21/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
