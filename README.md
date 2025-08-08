@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rishikaranjan21/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rishikaranjan21/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/rishikaranjan21/LeetCode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/rishikaranjan21/LeetCode/tree/master/0412-fizz-buzz) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishikaranjan21/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/rishikaranjan21/LeetCode/tree/master/0013-roman-to-integer) |
 | [1039-find-the-town-judge](https://github.com/rishikaranjan21/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rishikaranjan21/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Graph
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rishikaranjan21/LeetCode/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/rishikaranjan21/LeetCode/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/rishikaranjan21/LeetCode/tree/master/0412-fizz-buzz) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/rishikaranjan21/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
